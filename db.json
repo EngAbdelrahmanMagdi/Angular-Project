@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Ada Lovelace",
+      "hours": 200
+    },
+    {
+      "id": 4,
+      "name": "Grace Hopper",
+      "hours": 150
+    },
+    {
+      "id": 5,
+      "name": "Margaret Hamilton",
+      "hours": 67
+    },
+    {
+      "id": 6,
+      "name": "Joan Clarke",
+      "hours": 45
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
